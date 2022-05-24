@@ -1,6 +1,11 @@
 ![](https://img.shields.io/github/issues/QuantumNovice/Canal-Design) ![](https://img.shields.io/github/stars/QuantumNovice/Canal-Design) ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 
+# Test Platforms
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+* Android 11.0
+* Android 10.0
+* Android 5.0
+
 # Canal-Design
 An android app for design of hydraulic structures.
 

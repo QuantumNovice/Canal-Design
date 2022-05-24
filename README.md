@@ -1,8 +1,13 @@
+![](https://img.shields.io/github/issues/QuantumNovice/Canal-Design) ![](https://img.shields.io/github/stars/QuantumNovice/Canal-Design) ![](https://img.shields.io/github/license/QuantumNovice/Canal-Design) ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
+![](https://img.shields.io/twitter/url?style=social)
 # Canal-Design
 An android app for design of hydraulic structures.
 
 # Support Design
 * Design of Smooth Lined Concrete Canal
+
+# Installation
+Get apk from releases
 
 # Project Contributors
  * Syed Haseeb Shah
